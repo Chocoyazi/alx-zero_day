@@ -1,2 +1,4 @@
 #!/bin/bash\necho "ALX" 
 echo "ALX School is so cool!" 
+echo "The school is open!" 
+echo "ALX School is so cool!" 
